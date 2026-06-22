@@ -1,6 +1,6 @@
-#Disclaimer
-
-##This repository was created as part of my learning journey and is intended for educational and practice purposes.
+# Disclaimer
+ 
+## This repository was created as part of my learning journey and is intended for educational and practice purposes.
 
 The configurations, code, commands, and examples in this repository may not always follow production-grade standards, best practices, or optimal approaches. There may be mistakes, incomplete implementations, or areas that can be improved as I continue learning.
 
